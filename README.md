@@ -1,56 +1,83 @@
 <h1 align="center">Hi, I'm Abhiraj Kumar 👋</h1>
 
 <p align="center">
-  <b>Web Devloper | Python  | Java | JavaScript | Building Projects & Exploring AI</b>
+  <b>web devloper | Automation Enthusiast • Java | JavaScript | Python | C |C++• Exploring AI</b>
+</p>
+
+<p align="center">
+  <a href="mailto:Abhiraj.qu@gmail.com">📧 Abhiraj.qu@gmail.com</a> • 
+  <a href="https://github.com/Abhirajkumarsingh">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔥 Intermediate developer with experience in **frontend + backend**
-- 🛠 Worked on multiple projects: e-commerce, dashboard, automation, tools
-- 💡 Comfortable in **Java, JS, Python, HTML/CSS, APIs & Databases**
-- 🌱 Currently improving **backend depth + Python + AI fundamentals**
-- 🎯 Goal: Become a strong **Full Stack + AI Developer**
+- 🔥 Intermediate developer with strong **frontend + backend** experience.  
+- 🛠 Built multiple projects: e-commerce UI, dashboards, automation tools, and full flow apps.  
+- 💡 Comfortable with **Java, JavaScript, Python, C/C++**, HTML/CSS, SQL, APIs & databases.  
+- 🌱 Currently diving deeper into **backend architecture, Python automation, and AI fundamentals**.  
+- 🎯 Long-term: become a solid **Full-Stack + AI** engineer and build production-grade systems.  
+- 🎬 Content creator: produced **1200+ videos** on gaming & tech and run **College Brains** (YouTube & Instagram) — community growth & content ops experience.
 
 ---
 
 ### 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,nodejs,express,mongodb,firebase,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Insights
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhirajkumarsingh&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajkumarsingh&layout=compact&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,nodejs,express,mongodb,firebase,sql,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
-- 🛒 **E-commerce Website UI** (Frontend)  
-- 📨 **Python Email Generator**  
-- 📝 **Email Manager Web app *  
-- 🚦 **IoT Smart Traffic Dashboard**  
-- 👨‍🏫 **College Attendance System (Web App)**  
-- 🔐 **Password Generator Tool**  
-- ❓ **Quiz Web App**  
-- 🤖 **Dummy Jarvis Bot (JS)**  
+### 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Abhirajkumarsingh&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajkumarsingh&layout=compact&theme=tokyonight" />
+</p>
 
-_(Repos uploading soon — structured cleanly)_
+---
+
+### 🔥 Highlighted Projects
+> Each project repo should include a clear `README.md`, screenshots, tech used, and run instructions.
+
+- 🛒 **E-commerce Website** — responsive frontend + product flow (HTML/CSS/JS).  
+- 📧 **Python Email Generator** — templating + SMTP automation for structured emails.  
+- 📨 **Email Manager Web App** — scheduling & simple workflow using JS + Firebase.  
+- 🚦 **IoT Smart Traffic Dashboard** — real-time visualization & control demo.  
+- 👨‍🏫 **College Attendance System** — web app for attendance + export features.  
+- 🔐 **Password Generator** — secure random generator with strength meter.  
+- ❓ **Quiz Web App** — timed quizzes with score persistency.  
+- 🤖 **Dummy Jarvis Bot** — JS speech/command prototype.
+
+*(If live demos exist — add links under each project.)*
 
 ---
 
 ### 🎯 Current Focus
-- Advancing **Node.js backend**  
-- Learning **Python automation & AI basics**  
-- Building structured, real-world projects  
-- Strengthening **Java DSA**
+- Building production-quality **backend services** (Node.js + Express).  
+- Strengthening **Python** & exploring **machine learning basics**.  
+- Improving **DSA (Java)** for problem solving and performance.  
+- Growing **College Brains** community & sharing projects/learning content.
 
 ---
 
-### 📫 Contact
-📧 your-email@gmail.com
+### 📌 Work & Community
+- Creator — **1200+ YouTube videos** (tech & gaming).  
+- Manager — **College Brains** (content, job-sharing, community outreach).
+
+---
+
+### 🧭 How you can explore my work
+- 🔎 Check pinned repos for featured projects.  
+- ▶️ Look for `demo/` or `live/` links in repo READMEs.  
+- 🧾 Each project repo includes `README.md`, `screenshots/`, and setup steps.
+
+---
+
+### 📬 Contact
+- Email: **Abhiraj.qu@gmail.com**  
+- GitHub: **github.com/Abhirajkumarsingh**
+
+---
+
+*Made with ❤ — always learning, building, and sharing.*
