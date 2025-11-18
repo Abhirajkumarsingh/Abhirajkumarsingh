@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:Abhiraj.qu@gmail.com">📧 Abhiraj.qu@gmail.com</a> • 
   <a href="https://github.com/Abhirajkumarsingh">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/abhiraj-tech">LinkedIn</a>
 </p>
 
 ---
