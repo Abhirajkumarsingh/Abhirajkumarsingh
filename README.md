@@ -46,7 +46,6 @@
 - 🚦 **IoT Smart Traffic Dashboard** — real-time visualization & control demo.  
 - 👨‍🏫 **College Attendance System** — web app for attendance + export features.  
 - 🔐 **Password Generator** — secure random generator with strength meter.  
-- ❓ **Quiz Web App** — timed quizzes with score persistency.  
 - 🤖 **Dummy Jarvis Bot** — JS speech/command prototype.
 
 *(If live demos exist — add links under each project.)*
