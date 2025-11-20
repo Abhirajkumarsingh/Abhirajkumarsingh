@@ -57,6 +57,7 @@
 - Strengthening **Python** & exploring **machine learning basics**.  
 - Improving **DSA (Java)** for problem solving and performance.  
 - Growing **College Brains** community & sharing projects/learning content.
+- Growing college Brains as a startup to teach along with dwork on designing and development
 
 ---
 
