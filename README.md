@@ -48,7 +48,6 @@
 - 🔐 **Password Generator** — secure random generator with strength meter.  
 - 🤖 **Dummy Jarvis Bot** — JS speech/command prototype.
 
-*(If live demos exist — add links under each project.)*
 
 ---
 
