@@ -13,6 +13,7 @@
 ---
 
 ### 🚀 About Me
+
 - 🔥 Intermediate developer with strong **frontend + backend** experience.  
 - 🛠 Built multiple projects: e-commerce UI, dashboards, automation tools, and full flow apps.  
 - 💡 Comfortable with **Java, JavaScript, Python, C/C++**, HTML/CSS, SQL, APIs & databases.  
