@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/abhiraj-tech">LinkedIn</a>
 </p>
 
-
 ---
 
 ### 🚀 About Me
@@ -51,8 +50,7 @@
 - 👨‍🏫 **College Attendance System** — web app for attendance + export features.  
 - 🔐 **Password Generator** — secure random generator with strength meter.  
 - 🤖 **Dummy Jarvis Bot** — JS speech/command prototype.
-
-
+- 
 ---
 
 ### 🎯 Current Focus
