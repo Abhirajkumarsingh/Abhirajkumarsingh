@@ -64,7 +64,7 @@
 
 ### 📌 Work & Community
 - Creator — **1200+ YouTube videos** (tech & gaming).  
-- Manager — **College Brains** (content, job-sharing, community outreach).
+- Founder and CEO — **College Brains** (content, job-sharing, community outreach).
 
 ---
 
