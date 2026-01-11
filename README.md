@@ -76,7 +76,7 @@
 ---
 
 ### 📬 Contact
-- Email: **Abhiraj.qu@gmail.com**  
+- Email:  **Abhiraj.qu@gmail.com**  
 - GitHub: **github.com/Abhirajkumarsingh**
 
 ---
